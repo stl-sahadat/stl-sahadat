@@ -1,0 +1,43 @@
+<svg width="350" height="150" viewBox="0 0 350 150" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <style>
+    .header { font: 700 18px 'Segoe UI', Ubuntu, Sans-Serif; fill: #7AA2F7; }
+    .lang-name { font: 600 13px 'Segoe UI', Ubuntu, Sans-Serif; fill: #C0CAF5; }
+    .lang-pct { font: 400 13px 'Segoe UI', Ubuntu, Sans-Serif; fill: #7DCFFF; }
+  </style>
+
+  <!-- Background Card -->
+  <rect width="350" height="150" rx="8" fill="#0D1117" stroke="#1F242C" stroke-width="1"/>
+
+  <!-- Title -->
+  <text x="25" y="32" class="header">Most Used Languages</text>
+
+  <!-- Progress Bar (Full Bar) -->
+  <g transform="translate(25, 48)">
+    <rect width="300" height="8" rx="4" fill="#24283b"/>
+    <!-- TypeScript (65%) -->
+    <rect width="195" height="8" rx="4" fill="#3178C6"/>
+    <!-- Python (22%) -->
+    <rect x="195" width="66" height="8" rx="0" fill="#3776AB"/>
+    <!-- JavaScript (9%) -->
+    <rect x="261" width="27" height="8" rx="0" fill="#F7DF1E"/>
+    <!-- Others / HTML (4%) -->
+    <rect x="288" width="12" height="8" rx="4" fill="#E34F26"/>
+  </g>
+
+  <!-- Language Legend Columns -->
+  <!-- Col 1: TypeScript -->
+  <circle cx="31" cy="80" r="5" fill="#3178C6"/>
+  <text x="44" y="84" class="lang-name">TypeScript <tspan class="lang-pct">65.0%</tspan></text>
+
+  <!-- Col 2: Python -->
+  <circle cx="195" cy="80" r="5" fill="#3776AB"/>
+  <text x="208" y="84" class="lang-name">Python <tspan class="lang-pct">22.0%</tspan></text>
+
+  <!-- Row 2: Col 1: JavaScript -->
+  <circle cx="31" cy="112" r="5" fill="#F7DF1E"/>
+  <text x="44" y="116" class="lang-name">JavaScript <tspan class="lang-pct">9.0%</tspan></text>
+
+  <!-- Row 2: Col 2: Others / HTML -->
+  <circle cx="195" cy="112" r="5" fill="#E34F26"/>
+  <text x="208" y="116" class="lang-name">HTML/CSS <tspan class="lang-pct">4.0%</tspan></text>
+</svg>
