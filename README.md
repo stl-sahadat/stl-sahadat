@@ -1,7 +1,7 @@
 <div align="center">
 
   <!-- Main Executive Header Banner -->
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,21,31&height=210&section=header&text=Md%20Sahadat%20Hossain&fontSize=40&fontColor=ffffff&fontAlignY=38&desc=AI%20Agent%20Engineer%20%7C%20Autonomous%20Systems%20%26%20Cloud%20Architect&descSize=17&descAlignY=62" width="100%" alt="Header Banner" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,21,31&height=210&section=header&text=Md%20Sahadat%20Hossain&fontSize=40&fontColor=ffffff&fontAlignY=38&desc=TypeScript%20%26amp%3B%20Full-Stack%20Architect%20%7C%20AI%20Agent%20Engineer&descSize=17&descAlignY=62" width="100%" alt="Header Banner" />
 
   <!-- Animated Typing Headline (Clean, Professional, Dynamic) -->
   <a href="https://github.com/stl-sahadat">
