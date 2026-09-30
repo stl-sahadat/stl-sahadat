@@ -16,27 +16,27 @@
       <img src="https://komarev.com/ghpvc/?username=stl-sahadat&label=Profile%20Views&color=0e75b6&style=flat-square" alt="Profile Views" />
     </a>
     <img src="https://img.shields.io/badge/Specialization-AI%20Agent%20Engineering-8A2BE2?style=flat-square&logo=openai&logoColor=white" alt="Specialization" />
-    <img src="https://img.shields.io/badge/Expertise-Prompt%20Engineering-FF6F00?style=flat-square" alt="Prompt Engineering" />
+    <img src="https://img.shields.io/badge/Expertise-Prompt%20Engineering-FF6F00?style=flat-square&logo=openai&logoColor=white" alt="Prompt Engineering" />
     <img src="https://img.shields.io/badge/Primary_Language-TypeScript%20First-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript Primary" />
     <img src="https://img.shields.io/badge/Status-Available%20for%20High--Impact%20Projects-007A3D?style=flat-square" alt="Status" />
   </p>
 
-  <!-- Connect With Me (Official Brand Badges) -->
+  <!-- Connect With Me (Direct Clickable Brand Badges) -->
   <p>
-    <a href="https://www.linkedin.com/in/YOUR_LINKEDIN_USERNAME" target="_blank">
+    <a href="https://linkedin.com/in/mdsahadatconnact" target="_blank">
       <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+    </a>
+    <a href="https://youtube.com/@SahadatAutomation" target="_blank">
+      <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube" />
     </a>
     <a href="mailto:sahadat.info01@gmail.com">
       <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
     </a>
-    <a href="https://facebook.com/YOUR_FACEBOOK_USERNAME" target="_blank">
+    <a href="https://facebook.com/md.sahadat2.0" target="_blank">
       <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" />
     </a>
-    <a href="https://instagram.com/YOUR_INSTAGRAM_USERNAME" target="_blank">
+    <a href="https://instagram.com/stlsahadat" target="_blank">
       <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
-    </a>
-    <a href="https://youtube.com/@YOUR_YOUTUBE_HANDLE" target="_blank">
-      <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube" />
     </a>
   </p>
 
