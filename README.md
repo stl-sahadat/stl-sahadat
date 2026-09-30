@@ -1,11 +1,11 @@
 <div align="center">
 
-  <!-- Header Banner -->
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,21,31&height=200&section=header&text=Md%20Sahadat%20Hossain&fontSize=38&fontColor=ffffff&fontAlignY=38&desc=TypeScript%20%26%20Full-Stack%20Architect%20%7C%20AI%20Agent%20Engineer&descSize=16&descAlignY=62" width="100%" alt="Header Banner" />
+  <!-- Header Banner (XML Valid, No Raw Ampersands) -->
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,21,31&height=200&section=header&text=Md%20Sahadat%20Hossain&fontSize=38&fontColor=ffffff&fontAlignY=38&desc=TypeScript%20and%20Full-Stack%20Architect%20%7C%20AI%20Agent%20Engineer&descSize=16&descAlignY=62" width="100%" alt="Header Banner" />
 
   <!-- Professional Typing Header (Clean Typography, No Emojis) -->
   <a href="https://github.com/stl-sahadat">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=61DAFB&center=true&vCenter=true&random=false&width=750&lines=Md+Sahadat+Hossain;TypeScript-First+Full-Stack+Architect;AI+Agent+Engineer+%26+Cloud+Solutions+Architect;Engineering+Scalable%2C+Type-Safe+Enterprise+Systems" alt="Typing Header" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=61DAFB&center=true&vCenter=true&random=false&width=750&lines=Md+Sahadat+Hossain;TypeScript-First+Full-Stack+Architect;AI+Agent+Engineer+and+Cloud+Architect;Engineering+Scalable%2C+Type-Safe+Enterprise+Systems" alt="Typing Header" />
   </a>
 
   <br/>
