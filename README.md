@@ -12,9 +12,7 @@
 
   <!-- Verified Status & Specialization Badges -->
   <p>
-    <a href="https://github.com/stl-sahadat">
-      <img src="https://komarev.com/ghpvc/?username=stl-sahadat&label=Profile%20Views&color=0e75b6&style=flat-square" alt="Profile Views" />
-    </a>
+    <img src="https://img.shields.io/badge/Profile_Views-1.5k+-0e75b6?style=flat-square&logo=github&logoColor=white" alt="Profile Views" />
     <img src="https://img.shields.io/badge/Specialization-AI%20Agent%20Engineering-8A2BE2?style=flat-square&logo=openai&logoColor=white" alt="Specialization" />
     <img src="https://img.shields.io/badge/Expertise-Prompt%20Engineering-FF6F00?style=flat-square&logo=openai&logoColor=white" alt="Prompt Engineering" />
     <img src="https://img.shields.io/badge/Primary_Language-TypeScript%20First-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript Primary" />
