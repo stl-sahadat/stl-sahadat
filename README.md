@@ -27,7 +27,7 @@
     <a href="https://youtube.com/@SahadatAutomation" target="_blank">
       <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube" />
     </a>
-    <a href="https://mail.google.com/mail/?view=cm&fs=1&to=sahadat.info01@gmail.com" target="_blank">
+    <a href="https://mail.google.com/mail/?view=cm&fs=1&to=stdrsahadat@gmail.com" target="_blank">
       <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
     </a>
     <a href="https://facebook.com/md.sahadat2.0" target="_blank">
@@ -49,7 +49,7 @@ Experienced **AI Agent Engineer** and **Solutions Architect** dedicated to desig
 - **AI & Agentic Systems:** Developing goal-driven autonomous agents, multi-agent collaboration pipelines, and automated reasoning loops.
 - **Prompt Engineering & LLM Architecture:** Advanced Chain-of-Thought (CoT), few-shot prompting, function calling, tool use, and context optimization.
 - **Enterprise Engineering:** TypeScript-first type-safe architectures, high-performance APIs, and cloud-native microservices on Google Cloud Platform.
-- **Direct Collaboration:** [sahadat.info01@gmail.com](https://mail.google.com/mail/?view=cm&fs=1&to=sahadat.info01@gmail.com)
+- **Direct Collaboration:** [stdrsahadat@gmail.com](https://mail.google.com/mail/?view=cm&fs=1&to=stdrsahadat@gmail.com)
 
 ---
 
